@@ -2,7 +2,7 @@
   "name": "free-session-manager",
   "version": "1.1.11",
   "description": "Application de bureau et gestionnaire de sessions multi-agents 100% gratuit dédié aux modèles de Kilo, OpenCode et OpenRouter.",
-  "repository": "https://github.com/khalilbenaz/free-session-manager",
+  "repository": "https://github.com/vantaflow/free-session-manager",
   "bin": {
     "fsm": "bin/sm.js",
     "free-session-manager": "bin/sm.js",
@@ -42,7 +42,7 @@
     "sessions"
   ],
   "author": {
-    "name": "Khalil Benazzouz"
+    "name": "vantaflow"
   },
   "license": "MIT",
   "dependencies": {
@@ -141,7 +141,7 @@
           ]
         }
       ],
-      "maintainer": "Khalil Benazzouz <khalilbenaz@users.noreply.github.com>",
+      "maintainer": "vantaflow <76207730+vantaflow@users.noreply.github.com>",
       "icon": "build/icon.png",
       "category": "Development",
       "artifactName": "Free-Session-Manager-${version}-${arch}.${ext}"
